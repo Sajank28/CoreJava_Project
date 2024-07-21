@@ -1,6 +1,6 @@
-package ex_20072024;
+package Assignments;
 
-public class Lab0021 {
+public class Triangle_Classifier {
     public static void main(String[] args) {
         int s1 = 10;
         int s2 = 20;
