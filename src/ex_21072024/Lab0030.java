@@ -2,7 +2,7 @@ package ex_21072024;
 
 public class Lab0030 {
     public static void main(String[] args) {
-        // Functions
+        // Functions - Used to perform the task
         // Block of code which we can reuse.
         // 1. Pre-built - Math.max()
         // 2. User created / defined
