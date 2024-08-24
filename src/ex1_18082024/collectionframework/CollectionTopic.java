@@ -1,5 +1,7 @@
 package ex1_18082024.collectionframework;
 
+import java.util.ArrayList;
+
 public class CollectionTopic {
     //Collection FrameWork - Focus on Main Business logic rather than low level logics
         //Introduced in jdk 1.2 - 1997
@@ -21,6 +23,14 @@ public class CollectionTopic {
     //arraylist - finding element is very easy (deleting and adding heavy operation)
     //Linked list - difficult - traverse all nodes (adding and deleting is easy operation)
 
-    //
+
+
+
+
+    //MOST USED IN PROJECT
+        //    ArrayList
+        //    HASHSET
+        //    HASHMAP
+    // Iterator
 
 }
